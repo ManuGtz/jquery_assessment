@@ -1,0 +1,52 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+body{
+	width: 800px;
+	margin: 0 auto;
+	background:#3D3D5C; 
+}
+
+section{
+	height:900px;
+	background: #A34747;
+	margin:0 auto;
+	padding-top: 50px;
+}
+h2{
+	text-align: center;
+	font:normal bold 20px Tahoma;
+	color: #DCDCCA;
+	padding-bottom: 30px;
+}
+
+.newdiv{
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 30px;
+
+
+}
+
+.generatedDiv{
+	width: 145px;
+	display:block;
+	margin:0 auto;
+	color:white;
+	padding-top: 20px;
+	
+
+}
+
+.colorButton{
+
+	background:#1A6680 ;
+	color:#E0EAEA;
+	font: italic bold 16px Verdana;
+
+}
+
+
